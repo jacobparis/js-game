@@ -28,7 +28,7 @@
     "mini-css-extract-plugin": "^0.9.0",
     "node-sass": "^4.13.1",
     "sass-loader": "^8.0.2",
-    "serverless": "^1.63.0",
+    "serverless": "^3.25.1",
     "serverless-offline": "^5.12.1",
     "webpack": "^4.41.6",
     "webpack-cli": "^3.3.11"
